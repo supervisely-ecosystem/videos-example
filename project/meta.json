@@ -1,0 +1,48 @@
+{
+    "classes": [
+        {
+            "title": "car",
+            "shape": "rectangle",
+            "color": "#9C10F9",
+            "geometry_config": {}
+        },
+        {
+            "title": "animal",
+            "shape": "bitmap",
+            "color": "#7ED321",
+            "geometry_config": {}
+        }
+    ],
+    "tags": [
+        {
+            "name": "animal_age_group",
+            "value_type": "oneof_string",
+            "color": "#14902E",
+            "values": [
+                "juvenile",
+                "adult",
+                "senior"
+            ]
+        },
+        {
+            "name": "animal_present",
+            "value_type": "none",
+            "color": "#872D8B"
+        },
+        {
+            "name": "vehicle_colour",
+            "value_type": "any_string",
+            "color": "#65C0D7"
+        },
+        {
+            "name": "objects_present",
+            "value_type": "none",
+            "color": "#F8E71C"
+        },
+        {
+            "name": "number_of_objects",
+            "value_type": "any_number",
+            "color": "#1F380F"
+        }
+    ]
+}
