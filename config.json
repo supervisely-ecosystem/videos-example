@@ -1,0 +1,14 @@
+{
+  "name": "Videos example",
+  "description": "Sample videos with labels",
+  "type": "project",
+  "categories": [
+    "demo"
+  ],
+  "icon": "https://i.imgur.com/6i8hT8R.png",
+  "icon_cover": true
+}
+
+
+
+
