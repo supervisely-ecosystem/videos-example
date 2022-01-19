@@ -19,6 +19,6 @@
 
 ## Overview 
 
-Mini-dataset with labeled videos what you can use in different tasks from labeling to train Neural Networks.
+Mini-dataset with 2 labeled videos what you can use in different tasks from labeling to train Neural Networks.
 
 <img src="https://imgur.com/BKhriKi.png" width="100%"/>
