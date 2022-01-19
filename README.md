@@ -21,4 +21,4 @@
 
 Mini-dataset with labeled videos what you can use in different tasks from labeling to train Neural Networks.
 
-<img src="https://imgur.com/BKhriKi.png" width="70%"/>
+<img src="https://imgur.com/BKhriKi.png" width="100%"/>
