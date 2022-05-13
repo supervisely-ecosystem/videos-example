@@ -3,12 +3,10 @@
   "description": "Sample videos with labels",
   "type": "project",
   "categories": [
-    "demo"
+    "import",
+    "videos",
+    "project"
   ],
   "icon": "https://img.icons8.com/color/96/000000/movies-folder.png",
   "icon_cover": true
 }
-
-
-
-
