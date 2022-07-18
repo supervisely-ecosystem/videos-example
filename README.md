@@ -9,8 +9,8 @@
 
 [![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervise.ly/slack) 
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/supervisely-ecosystem/videos-example)
-[![views](https://app.supervise.ly/public/api/v3/ecosystem.counters?repo=supervisely-ecosystem/videos-example&counter=views&label=views)](https://supervise.ly)
-[![downloads](https://app.supervise.ly/public/api/v3/ecosystem.counters?repo=supervisely-ecosystem/videos-example&counter=downloads&label=downloads)](https://supervise.ly)
+[![views](https://app.supervise.ly/img/badges/views/supervisely-ecosystem/videos-example)](https://supervise.ly)
+[![downloads](https://app.supervise.ly/img/badges/downloads/supervisely-ecosystem/videos-example)](https://supervise.ly)
 
 
 
