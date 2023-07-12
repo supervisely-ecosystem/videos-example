@@ -1,6 +1,6 @@
 <div align="center" markdown> 
 
-<img src="https://i.imgur.com/UdBujFN.png" width="250" /> <br>
+<img src="media/eco.png" width="250" /> <br>
 
 
 # Videos example 
@@ -21,4 +21,4 @@
 
 Mini-dataset with 2 labeled videos what you can use in different tasks from labeling to train Neural Networks.
 
-<img src="https://imgur.com/BKhriKi.png" width="100%"/>
+<img src="media/ov1.png" width="100%"/>
